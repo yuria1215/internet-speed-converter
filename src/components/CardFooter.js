@@ -1,5 +1,5 @@
 import React from 'react'
-
+ 
 // STEP 2 : 透過 props 取得從父層傳入的資料
 const CardFooter = ({ inputValueKey }) => {
 
