@@ -106,7 +106,7 @@ body {
   color: #0a97b0;
   font-weight: bold;
 }
-#keyIn{
+#keyIn {
   border: 2px solid #0a97b0;
   border-radius: 5px;
   width: 75px;
@@ -117,4 +117,28 @@ body {
 
 .flex-1 {
   flex: 1;
+}
+
+.countNumber {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+/* 計數器 */
+.chevron{
+  font-size: 50px;
+  color: #3fd0e9;
+  cursor: pointer;
+}
+
+.number{
+  font-size: 60px;
+  color: #0a97b0;
+  margin: 0 20px;
+}
+
+.chevron-up{
+
 }
